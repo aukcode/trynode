@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/Dropbox/Emner/1. Semester/WebTech/WebTech.iml" filepath="$USER_HOME$/Dropbox/Emner/1. Semester/WebTech/WebTech.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cheer_node/cheer_node.iml" filepath="$PROJECT_DIR$/../cheer_node/cheer_node.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../express_json/express_json.iml" filepath="$PROJECT_DIR$/../express_json/express_json.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../expresstut/expresstut.iml" filepath="$PROJECT_DIR$/../expresstut/expresstut.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../github_play/github_play.iml" filepath="$PROJECT_DIR$/../github_play/github_play.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../learnruby/learnruby.iml" filepath="$PROJECT_DIR$/../learnruby/learnruby.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../nodeex_absbigin/nodeex_absbigin.iml" filepath="$PROJECT_DIR$/../nodeex_absbigin/nodeex_absbigin.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/trynode.iml" filepath="$PROJECT_DIR$/.idea/trynode.iml" />
     </modules>
   </component>
